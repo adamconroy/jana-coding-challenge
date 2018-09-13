@@ -33,3 +33,5 @@ Why Ruby/Watir? I decided to replicate most closely what I would advocate doing 
 - better email validation
 - written in node.js with a headless web driver, easily could be run as a distributed cluster on AWS or similar (if you REALLY want those emails)
 - lots more error checking as well as registration spoofing and cookie management
+
+^^^
